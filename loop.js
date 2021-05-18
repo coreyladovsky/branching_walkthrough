@@ -3,3 +3,7 @@ function loop(nums){
         console.log(i)
     }
 }
+
+function printName(name){
+    console.log(`hi ${name}`)
+}
